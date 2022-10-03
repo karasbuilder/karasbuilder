@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [blog links... update soon](blog links... update soon)
 
-- 💬 Ask me about **React, Node JS , Java or C#, No SQL database**
+- 💬 Ask me about **React, Node JS , Java or C#,SQL,No SQL**
 
 - 📫 How to reach me **vannam34760@gmail.com**
 
