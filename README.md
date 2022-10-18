@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Van Nam</h1>
-<h3 align="center">A Frontend Web Developer From Viet Nam</h3>
+<h3 align="center">A Frontend Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kafierence&label=Profile%20views&color=0e75b6&style=flat" alt="kafierence" /> </p>
 
 - 🔭 I’m currently working on [update soon](update soon)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Vue JS**
 
 - 👨‍💻 All of my projects are available at [update soons](update soons)
 
 - 📝 I regularly write articles on [blog links... update soon](blog links... update soon)
 
-- 💬 Ask me about **React, Node JS , Java or C#,SQL,No SQL**
+- 💬 Ask me about **React, Node JS ,Express JS, Java or C#,SQL,Mongo DB **
 
 - 📫 How to reach me **vannam34760@gmail.com**
 
