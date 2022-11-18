@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [update soon](update soon)
 
-- 🌱 I’m currently learning **Vue JS**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [update soons](update soons)
 
