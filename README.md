@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Cv Link update soons](Cv Link update soons)
 
-- ⚡ Fun fact **I Like listen Music , drink coffe ..**
+- ⚡ Fun fact **I Like Listen To Music , Drink coffe ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
