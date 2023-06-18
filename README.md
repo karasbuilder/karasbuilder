@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kafierence&label=Profile%20views&color=0e75b6&style=flat" alt="kafierence" /> </p>
 
-- 🔭 I’m currently working on [update soon](update soon)
+- 🔭 I’m currently working on [Grindy](https://github.com/grindytech)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **NestJS**
 
 - 👨‍💻 All of my projects are available at [update soons](update soons)
 
