@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karas</h1>
-<h3 align="center">A Frontend Web Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kafierence&label=Profile%20views&color=0e75b6&style=flat" alt="kafierence" /> </p>
 
@@ -11,14 +11,13 @@
 
 - 📝 I regularly write articles on [blog links... update soon](blog links... update soon)
 
-- 💬 Ask me about **React,Vue,Next, Node JS ,Express JS, Java or C#,SQL,Mongo DB **
+- 💬 Ask me about **React,Vue,Next, Node JS ,Express JS, Java or C#, SQL, Mongo DB**
 
 - 📫 How to reach me **vannam34760@gmail.com**
 
 - 📄 Know about my experiences [Cv Link update soons](Cv Link update soons)
 
 - ⚡ Fun fact **I Like Listen To Music , Drink coffe ...**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vannam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vannam" height="30" width="40" /></a>
