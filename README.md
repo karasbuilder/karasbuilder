@@ -20,13 +20,12 @@
 - ⚡ Fun fact **I Like Listen To Music , Drink coffe ...**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<>
-<a href="https://www.linkedin.com/in/v%C4%83n-nam-t%E1%BB%91ng-2464b0243/" target="blank">
+<a href="https://www.linkedin.com/in/v%C4%83n-nam-t%E1%BB%91ng-2464b0243/" target="_blank">
 <picture>
   <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/social/linkedin.svg" alt="LinkedIN link of Karas" height="30" width="40" />
 </picture>
 </a>
-<a href="https://www.facebook.com/profile.php?id=100019553707449" target="blank">
+<a href="https://www.facebook.com/profile.php?id=100019553707449" target="_blank">
 <picture>
   <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/social/facebook.svg" alt="Facebook link of Karas" height="30" width="40" />
 </picture>
