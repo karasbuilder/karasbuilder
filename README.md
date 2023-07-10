@@ -23,13 +23,15 @@
 <>
 <a href="https://www.linkedin.com/in/v%C4%83n-nam-t%E1%BB%91ng-2464b0243/" target="blank">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="văn-nam-tống-2464b0243" height="30" width="40" />
+  <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/social/linkedin.svg" alt="LinkedIN link of Karas" height="30" width="40" />
 </picture>
 </a>
-<a href="https://instagram.com/kalistfierence" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalistfierence" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fierence ka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fierence ka" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100019553707449" target="blank">
+<picture>
+  <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/social/facebook.svg" alt="Facebook link of Karas" height="30" width="40" />
+</picture>
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
