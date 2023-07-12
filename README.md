@@ -33,12 +33,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<picture>
-    <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/html5-original.svg" alt="HTML Icon" height="40" width="40" />
-    <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/css.svg" alt="HTML Icon" height="40" width="40" />
-</picture>
+<p align="left">  
 
+<img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/html5-original.svg" alt="HTML Icon" height="40" width="40" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset='https://github.com/Kafierence/Kafierence/blob/main/assets/languages/dark/css.svg' alt="Css Dark Icon" height="40" width="40"/>
+    <source media="(prefers-color-scheme: light)" srcset='https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/css.svg' alt="Css Light Icon" height="40" width="40"/>
+</picture>
+    <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/css.svg" alt="JS Icon" height="40" width="40" />
 
 <a href="https://react.dev/" target="_blank">
   <picture>
