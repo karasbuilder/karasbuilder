@@ -37,7 +37,7 @@
 
 <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/html5-original.svg" alt="HTML Icon" height="40" width="40" />
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset='https://github.com/Kafierence/Kafierence/blob/main/assets/languages/dark/css.svg'/>
+    <source media="(prefers-color-scheme: dark)" srcset='https://github.com/Kafierence/Kafierence/blob/main/assets/languages/dark/css.svg' height="40" width="40"/>
     <image src='https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/css.svg' alt="Css Light Icon" height="40" width="40"/>
 </picture>
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/css.svg" alt="JS Icon" height="40" width="40" />
