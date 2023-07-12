@@ -34,14 +34,20 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<picture>
+    <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/html5-original.svg" alt="HTML Icon" height="40" width="40" />
+    <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/css.svg" alt="HTML Icon" height="40" width="40" />
+</picture>
+
+
 <a href="https://react.dev/" target="_blank">
   <picture>
-    <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/typescript.svg" alt="Facebook link of Karas" height="30" width="40" />
+    <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/typescript.svg" alt="Typescript Icon" height="40" width="40" />
   </picture>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank">
   <picture>
-    <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/reactjs.svg" alt="Facebook link of Karas" height="30" width="40" />
+    <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/reactjs.svg" alt="React JS Icon" height="40" width="40" />
   </picture>
 </a>
 
