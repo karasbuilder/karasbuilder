@@ -35,29 +35,29 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
 
-<img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/html5-original.svg" alt="HTML Icon" height="40" width="40" />
+<img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/html5-original.svg" alt="HTML Icon" height="30" width="40" />
 <a href='#'>
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset='https://github.com/Kafierence/Kafierence/blob/main/assets/languages/dark/css.svg' height="40" width="40"/>
-    <image align="center" src='https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/css.svg' alt="Css Light Icon" height="40" width="40"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset='https://github.com/Kafierence/Kafierence/blob/main/assets/languages/dark/css.svg' height="30" width="40"/>
+    <image align="center" src='https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/css.svg' alt="Css Light Icon" height="30" width="40"/>
   </picture>
 </a>
 <a href='https://www.w3schools.com/js/' target='_blank'>
  <picture>
-  <source align="center" media="(prefers-color-scheme: dark)" srcset='https://github.com/Kafierence/Kafierence/blob/main/assets/languages/dark/javascript.svg' height="40" width="40"/>
-  <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/javascript.svg" alt="JS Icon" height="40" width="40" />
+  <source align="center" media="(prefers-color-scheme: dark)" srcset='https://github.com/Kafierence/Kafierence/blob/main/assets/languages/dark/javascript.svg' height="30" width="40"/>
+  <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/javascript.svg" alt="JS Icon" height="30" width="40" />
  </picture>
 </a>
 
 
 <a href="https://react.dev/" target="_blank">
   <picture>
-    <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/typescript.svg" alt="Typescript Icon" height="40" width="40" />
+    <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/typescript.svg" alt="Typescript Icon" height="30" width="40" />
   </picture>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank">
   <picture>
-    <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/reactjs.svg" alt="React JS Icon" height="40" width="40" />
+    <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/reactjs.svg" alt="React JS Icon" height="30" width="40" />
   </picture>
 </a>
 
