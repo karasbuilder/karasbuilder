@@ -20,17 +20,17 @@
 - ⚡ Fun fact **I Like Listen To Music , Drink coffe ...**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/v%C4%83n-nam-t%E1%BB%91ng-2464b0243/" target="_blank">
+<a href="https://www.linkedin.com/in/v%C4%83n-nam-t%E1%BB%91ng-2464b0243/" rel="noopener noreferrer">
   <picture>
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/social/linkedin.svg" alt="LinkedIN link of Karas" height="30" width="40" />
   </picture>
 </a>
-<a href="https://www.facebook.com/profile.php?id=100019553707449" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=100019553707449" rel="noopener noreferrer">
   <picture>
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/social/facebook.svg" alt="Facebook link of Karas" height="30" width="40" />
   </picture>
 </a>
-<a href="https://twitter.com/Karas_2k" target="_blank">
+<a href="https://twitter.com/Karas_2k" rel="noopener noreferrer">
   <picture>
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/social/twitter.svg" alt="Facebook link of Karas" height="30" width="40" />
   </picture>
@@ -38,7 +38,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  
+<p align="left">
 
 <a href='#'>
 <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/html5-original.svg" alt="HTML Icon" height="30" width="40" />
@@ -56,38 +56,36 @@
  </picture>
 </a>
 
-
-<a href="https://react.dev/" target="_blank">
+<a href="https://react.dev/" rel="noopener noreferrer">
   <picture>
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/typescript.svg" alt="Typescript Icon" height="30" width="40" />
   </picture>
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank">
+<a href="https://www.typescriptlang.org/" rel="noopener noreferrer">
   <picture>
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/reactjs.svg" alt="React JS Icon" height="30" width="40" />
   </picture>
 </a>
-<a href="https://vuejs.org/" target="_blank">
+<a href="https://vuejs.org/" rel="noopener noreferrer">
   <picture>
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/vuejs.svg" alt="Typescript Icon" height="30" width="40" />
   </picture>
 </a>
 
-<a href="https://www.docker.com/" target="_blank">
+<a href="https://www.docker.com/" rel="noopener noreferrer">
   <picture>
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/docker.svg" alt="Docker Icon" height="30" width="40" />
   </picture>
 </a>
-<a href="https://www.mongodb.com/" target="_blank">
+<a href="https://www.mongodb.com/" rel="noopener noreferrer">
   <picture>
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/mongodb-original.svg" alt="Docker Icon" height="30" width="40" />
   </picture>
 </a>
-<a href="https://redux.js.org/" target="_blank">
+<a href="https://redux.js.org/" rel="noopener noreferrer">
   <picture>
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/redux.svg" alt="Docker Icon" height="30" width="40" />
   </picture>
 </a>
 
 </p>
-
