@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Grindy](https://github.com/grindytech)
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **How to Use Figma**
 
 - 👨‍💻 All of my projects are available at [update soons](update soons)
 
@@ -25,11 +25,11 @@
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/social/linkedin.svg" alt="LinkedIN link of Karas" height="30" width="40" />
   </picture>
 </a>
-<a href="https://www.facebook.com/profile.php?id=100019553707449" target="_blank">
+<!-- <a href="https://www.facebook.com/profile.php?id=100019553707449" target="_blank">
   <picture>
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/social/facebook.svg" alt="Facebook link of Karas" height="30" width="40" />
   </picture>
-</a>
+</a> -->
 <a href="https://twitter.com/Karas_2k" target="_blank">
   <picture>
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/social/twitter.svg" alt="Facebook link of Karas" height="30" width="40" />
@@ -38,7 +38,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  
+<p align="left">
 
 <a href='#'>
 <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/html5-original.svg" alt="HTML Icon" height="30" width="40" />
@@ -55,7 +55,6 @@
   <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/javascript.svg" alt="JS Icon" height="30" width="40" />
  </picture>
 </a>
-
 
 <a href="https://react.dev/" target="_blank">
   <picture>
@@ -90,4 +89,3 @@
 </a>
 
 </p>
-
