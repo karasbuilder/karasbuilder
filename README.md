@@ -107,4 +107,10 @@
  </picture>
 </a>
 
+<a href='https://www.highcharts.com/' target='_blank'>
+<picture>
+  
+  <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/highchart.svg" alt="JS Icon" height="30" width="40" />
+ </picture>
+</a>
 </p>
