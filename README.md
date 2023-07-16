@@ -87,5 +87,24 @@
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/redux.svg" alt="Docker Icon" height="30" width="40" />
   </picture>
 </a>
+<a href='https://chakra-ui.com/' target='_blank'>
+ <picture>
+  <source align="center" media="(prefers-color-scheme: dark)" srcset='https://github.com/Kafierence/Kafierence/blob/main/assets/languages/dark/chakra.svg' height="30" width="40"/>
+  <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/chakra.svg" alt="JS Icon" height="30" width="40" />
+ </picture>
+</a>
+
+<a href='https://panda-css.com/' target='_blank'>
+<picture>
+  <source align="center" media="(prefers-color-scheme: dark)" srcset='https://github.com/Kafierence/Kafierence/blob/main/assets/languages/dark/panda-css.svg' height="30" width="40"/>
+  <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/panda-css.svg" alt="JS Icon" height="30" width="40" />
+ </picture>
+</a>
+<a href='https://tailwindcss.com/' target='_blank'>
+<picture>
+  <source align="center" media="(prefers-color-scheme: dark)" srcset='https://github.com/Kafierence/Kafierence/blob/main/assets/languages/dark/tailwind-css.svg' height="30" width="40"/>
+  <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/tailwind-css.svg" alt="JS Icon" height="30" width="40" />
+ </picture>
+</a>
 
 </p>
