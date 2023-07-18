@@ -25,12 +25,12 @@
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/social/linkedin.svg" alt="LinkedIN link of Karas" height="30" width="40" />
   </picture>
 </a>
-<a href="https://www.facebook.com/profile.php?id=100019553707449" >
+<!-- <a href="https://www.facebook.com/profile.php?id=100019553707449" target="_blank">
   <picture>
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/social/facebook.svg" alt="Facebook link of Karas" height="30" width="40" />
   </picture>
-</a>
-<a href="https://twitter.com/Karas_2k" >
+</a> -->
+<a href="https://twitter.com/Karas_2k" target="_blank">
   <picture>
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/social/twitter.svg" alt="Facebook link of Karas" height="30" width="40" />
   </picture>
@@ -56,7 +56,7 @@
  </picture>
 </a>
 
-<a href="https://react.dev/" >
+<a href="https://react.dev/" target="_blank">
   <picture>
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/typescript.svg" alt="Typescript Icon" height="30" width="40" />
   </picture>
@@ -87,5 +87,30 @@
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/redux.svg" alt="Docker Icon" height="30" width="40" />
   </picture>
 </a>
+<a href='https://chakra-ui.com/' target='_blank'>
+ <picture>
+  <source align="center" media="(prefers-color-scheme: dark)" srcset='https://github.com/Kafierence/Kafierence/blob/main/assets/languages/dark/chakra.svg' height="30" width="40"/>
+  <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/chakra.svg" alt="JS Icon" height="30" width="40" />
+ </picture>
+</a>
 
+<a href='https://panda-css.com/' target='_blank'>
+<picture>
+  <source align="center" media="(prefers-color-scheme: dark)" srcset='https://github.com/Kafierence/Kafierence/blob/main/assets/languages/dark/panda-css.svg' height="30" width="40"/>
+  <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/panda-css.svg" alt="JS Icon" height="30" width="40" />
+ </picture>
+</a>
+<a href='https://tailwindcss.com/' target='_blank'>
+<picture>
+  <source align="center" media="(prefers-color-scheme: dark)" srcset='https://github.com/Kafierence/Kafierence/blob/main/assets/languages/dark/tailwind-css.svg' height="30" width="40"/>
+  <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/tailwind-css.svg" alt="JS Icon" height="30" width="40" />
+ </picture>
+</a>
+
+<a href='https://www.highcharts.com/' target='_blank'>
+<picture>
+  
+  <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/highchart.svg" alt="JS Icon" height="30" width="40" />
+ </picture>
+</a>
 </p>
