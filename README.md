@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kafierence&label=Profile%20views&color=0e75b6&style=flat" alt="kafierence" /> </p>
 
-- 🔭 I’m currently working on [Grindy](https://github.com/grindytech)
+- 🔭 I’m currently working on .....
 
 - 🌱 I’m currently learning **RUST**
 
