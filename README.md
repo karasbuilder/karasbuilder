@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karas</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kafierence&label=Profile%20views&color=0e75b6&style=flat" alt="kafierence" /> </p>
 
-- 🔭 I’m currently working on .....
+- 🔭 I’m currently working on **Grindy Technologies**
 
 - 🌱 I’m currently learning **RUST**
 
@@ -11,7 +10,7 @@
 
 - 📝 I regularly write articles on [blog links... update soon](blog links... update soon)
 
-- 💬 Ask me about **React,Vue,Next, Node JS ,Express JS, Java or C#, SQL, Mongo DB**
+- 💬 I know about *React,Vue,Next, Node JS ,Express JS, Java or C#, Rust, SQL, Mongo DB* 
 
 - 📫 How to reach me **vannam34760@gmail.com**
 
