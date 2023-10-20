@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karas</h1>
 <h3 align="center">Web Developer</h3>
 
-
 - 🔭 I’m currently working on **Grindy Technologies**
 
 - 🌱 I’m currently learning **RUST**
@@ -10,7 +9,7 @@
 
 - 📝 I regularly write articles on [blog links... update soon](blog links... update soon)
 
-- 💬 I know about *React,Vue,Next, Node JS ,Express JS, Java or C#, Rust, SQL, Mongo DB* 
+- 💬 I know about _React,Vue,Next, Node JS ,Express JS, Java or C#, Rust, SQL, Mongo DB_
 
 - 📫 How to reach me **vannam34760@gmail.com**
 
@@ -113,3 +112,4 @@
  </picture>
 </a>
 </p>
+[![Karas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kafierence)]
