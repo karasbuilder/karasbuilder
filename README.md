@@ -112,4 +112,4 @@
  </picture>
 </a>
 </p>
-[![Karas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kafierence)]
+![Karas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kafierence)
