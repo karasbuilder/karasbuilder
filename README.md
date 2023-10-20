@@ -28,7 +28,7 @@
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/social/facebook.svg" alt="Facebook link of Karas" height="30" width="40" />
   </picture>
 </a> -->
-<a href="https://twitter.com/Karas_2k" target="_blank">
+<a href="https://twitter.com/Karas_2k"  target=”_blank” rel=”noreferrer”>
   <picture>
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/social/twitter.svg" alt="Facebook link of Karas" height="30" width="40" />
   </picture>
@@ -85,7 +85,7 @@
     <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/redux.svg" alt="Docker Icon" height="30" width="40" />
   </picture>
 </a>
-<a href='https://chakra-ui.com/' target='_blank'>
+<a href='https://chakra-ui.com/' target=”_blank” rel=”noreferrer”>
  <picture>
   <source align="center" media="(prefers-color-scheme: dark)" srcset='https://github.com/Kafierence/Kafierence/blob/main/assets/languages/dark/chakra.svg' height="30" width="40"/>
   <img align="center" src="https://github.com/Kafierence/Kafierence/blob/main/assets/languages/light/chakra.svg" alt="JS Icon" height="30" width="40" />
