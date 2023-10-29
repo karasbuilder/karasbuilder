@@ -112,8 +112,12 @@
 </a>
 </p>
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kafierence&show_icons=true&theme=transparent" />
 ### ✍️ Random Dev Quote
+<image >
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kafierence&show_icons=true&theme=transparent" />
+
+---
 
 [![](https://visitcount.itsvg.in/api?id=Kafierence&icon=0&color=0)](https://visitcount.itsvg.in)
