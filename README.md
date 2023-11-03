@@ -11,7 +11,7 @@
 
 - 💬 I know about _React,Vue,Next, Node JS ,Express JS, Java or C#, Rust, SQL, Mongo DB_
 
-- 📫 How to reach me **vannam34760@gmail.com**
+- 📫 How to reach me **futurebattery00@gmail.com**
 
 - 📄 Know about my experiences [My-CV-Here](Cv Link update soons)
 
