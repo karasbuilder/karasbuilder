@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Grindy Technologies**
 
-- 🌱 I’m currently learning **RUST**
+- 🌱 I’m currently learning **NestJS**
 
 - 👨‍💻 All of my projects are available at [update soons](update soons)
 
