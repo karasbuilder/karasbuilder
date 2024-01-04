@@ -2,22 +2,26 @@
     <img align="center" src="https://github.com/battery34760/battery34760/blob/main/assets/banner.png" alt="Linked link of Karas" height="400px" width="100%" />
   </picture>
 <h2 align="center">Web Developer</h3>
-
+<div align='left'>
 - 🔭 I’m currently working on **Grindy Technologies**
 
 - 🌱 I’m currently learning **NestJS**
 
-- 👨‍💻 All of my projects are available at [update soons](update soons)
+- 👨‍💻 All of my projects are available at [update soons]
 
-- 📝 I regularly write articles on [blog links... update soon](blog links... update soon)
+- 📝 I regularly write articles on [blog links... update soon]
 
-- 💬 I know about _React,Vue,Next, Node JS ,Express JS, Java or C#, Rust, SQL, Mongo DB_
+- 💬 I know about _MERN,RUST_
 
 - 📫 How to reach me **futurebattery00@gmail.com**
 
-- 📄 Know about my experiences [My-CV-Here](Cv Link update soons)
-
+- 📄 Know about my experiences [My-CV-Here]
 - ⚡ Fun fact **I Like Listen To Music , Drink coffe ...**
+</div>
+<picture>
+    <img  align="right" alt="Coding Karas" src="https://github.com/battery34760/battery34760/blob/main/assets/gif/giphy.gif" alt="Linked link of Karas"/>
+</picture>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/v%C4%83n-nam-t%E1%BB%91ng-2464b0243/" >
