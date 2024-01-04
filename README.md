@@ -3,16 +3,18 @@
   </picture>
 <h2 align="center">Web Developer</h3>
 <picture>
-    <img  align="right" alt="Coding Karas" src="https://github.com/battery34760/battery34760/blob/main/assets/gif/giphy.gif" alt="Linked link of Karas"/>
+    <img  align="right" border-radius='8px' alt="Coding Karas" src="https://github.com/battery34760/battery34760/blob/main/assets/gif/giphy.gif" alt="Linked link of Karas"/>
 </picture>
-<div align='left'>
+
+<p align='left'>
+
 - 🔭 I’m currently working on **Grindy Technologies**
 
 - 🌱 I’m currently learning **NestJS**
 
 - 👨‍💻 All of my projects are available at [update soons]
 
-- 📝 I regularly write articles on [blog links... update soon]
+- 📝 I regularly write articles on ....
 
 - 💬 I know about _MERN,RUST_
 
@@ -20,7 +22,7 @@
 
 - 📄 Know about my experiences [My-CV-Here]
 - ⚡ Fun fact **I Like Listen To Music , Drink coffe ...**
-</div>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
