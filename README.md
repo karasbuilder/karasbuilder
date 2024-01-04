@@ -1,6 +1,9 @@
-  <picture>
-    <img align="center" src="https://github.com/battery34760/battery34760/blob/main/assets/banner.png" alt="Linked link of Karas" height="400px" width="100%" />
-  </picture>
+[![](https://visitcount.itsvg.in/api?id=battery34760&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<picture>
+<img align="center" src="https://github.com/battery34760/battery34760/blob/main/assets/banner.png" alt="Linked link of Karas" height="400px" width="100%" />
+</picture>
+
 <h2 align="center">Web Developer</h3>
 <picture>
     <img  align="right" width='400px' alt="Coding Karas" src="https://github.com/battery34760/battery34760/blob/main/assets/gif/giphy.gif" alt="Linked link of Karas"/>
@@ -124,5 +127,3 @@
 ### Random Dev Quote
 
 ## ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=battery34760&icon=0&color=0)](https://visitcount.itsvg.in)
