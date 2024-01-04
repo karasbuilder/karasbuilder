@@ -2,6 +2,9 @@
     <img align="center" src="https://github.com/battery34760/battery34760/blob/main/assets/banner.png" alt="Linked link of Karas" height="400px" width="100%" />
   </picture>
 <h2 align="center">Web Developer</h3>
+<picture>
+    <img  align="right" alt="Coding Karas" src="https://github.com/battery34760/battery34760/blob/main/assets/gif/giphy.gif" alt="Linked link of Karas"/>
+</picture>
 <div align='left'>
 - 🔭 I’m currently working on **Grindy Technologies**
 
@@ -18,9 +21,6 @@
 - 📄 Know about my experiences [My-CV-Here]
 - ⚡ Fun fact **I Like Listen To Music , Drink coffe ...**
 </div>
-<picture>
-    <img  align="right" alt="Coding Karas" src="https://github.com/battery34760/battery34760/blob/main/assets/gif/giphy.gif" alt="Linked link of Karas"/>
-</picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
