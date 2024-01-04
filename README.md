@@ -3,7 +3,7 @@
   </picture>
 <h2 align="center">Web Developer</h3>
 <picture>
-    <img  align="right" border-radius='8px' alt="Coding Karas" src="https://github.com/battery34760/battery34760/blob/main/assets/gif/giphy.gif" alt="Linked link of Karas"/>
+    <img  align="right" width='400px' alt="Coding Karas" src="https://github.com/battery34760/battery34760/blob/main/assets/gif/giphy.gif" alt="Linked link of Karas"/>
 </picture>
 
 <p align='left'>
@@ -14,13 +14,8 @@
 
 - 👨‍💻 All of my projects are available at [update soons]
 
-- 📝 I regularly write articles on ....
-
 - 💬 I know about _MERN,RUST_
 
-- 📫 How to reach me **futurebattery00@gmail.com**
-
-- 📄 Know about my experiences [My-CV-Here]
 - ⚡ Fun fact **I Like Listen To Music , Drink coffe ...**
 </p>
 
