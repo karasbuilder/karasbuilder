@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Karas</h1>
-<h3 align="center">Web Developer</h3>
+  <picture>
+    <img align="center" src="https://github.com/battery34760/battery34760/blob/main/assets/banner.png" alt="Linked link of Karas" height="30" width="40" />
+  </picture>
+<h2 align="center">Web Developer</h3>
 
 - 🔭 I’m currently working on **Grindy Technologies**
 
@@ -28,7 +30,7 @@
     <img align="center" src="https://github.com/battery34760/battery34760/blob/main/assets/social/facebook.svg" alt="Facebook link of Karas" height="30" width="40" />
   </picture>
 </a> -->
-<a href="https://twitter.com/Karas_2k"  target=”_blank” rel=”noreferrer”>
+<a href="https://twitter.com/Karas34760"  target=”_blank” rel=”noreferrer”>
   <picture>
     <img align="center" src="https://github.com/battery34760/battery34760/blob/main/assets/social/twitter.svg" alt="Twitter link of Karas" height="30" width="40" />
   </picture>
@@ -117,10 +119,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=battery34760&show_icons=true&theme=transparent" />
 
 ---
+
 ### Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
+## ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=battery34760&icon=0&color=0)](https://visitcount.itsvg.in)
-
