@@ -1,5 +1,5 @@
   <picture>
-    <img align="center" src="https://github.com/battery34760/battery34760/blob/main/assets/banner.png" alt="Linked link of Karas" height="30" width="40" />
+    <img align="center" src="https://github.com/battery34760/battery34760/blob/main/assets/banner.png" alt="Linked link of Karas" height="947px" width="100%" />
   </picture>
 <h2 align="center">Web Developer</h3>
 
