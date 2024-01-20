@@ -15,7 +15,8 @@
 
 - 🌱 I’m currently learning **NestJS**
 
-- 👨‍💻 All of my projects are available at [update soons]
+- 👨‍💻 Read more information about me at [karasdev](https://karasdev.com/)
+- You can reach me at: karasdeveloper@gmail.com
 
 - 💬 I know about _MERN,RUST_
 
