@@ -11,8 +11,6 @@
 
 <p align='left'>
 
-- 🔭 I’m currently working on **Grindy Technologies**
-
 - 🌱 I’m currently learning **NestJS**
 
 - 👨‍💻 Read more information about me at [karasdev](https://karasdev.com/)
