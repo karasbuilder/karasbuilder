@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=battery34760&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
 <img align="center" src="https://github.com/battery34760/battery34760/blob/main/assets/banner.png" alt="Linked link of Karas" height="400px" width="100%" />
@@ -14,7 +13,7 @@
 - 🌱 I’m currently learning **NestJS**
 
 - 👨‍💻 Read more information about me at [karasdev](https://karasdev.com/)
-- You can reach me at: karasdeveloper@gmail.com
+- You can reach me at: vannam34760@gmail.com
 
 - 💬 I know about _MERN,RUST_
 
