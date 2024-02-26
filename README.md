@@ -28,11 +28,6 @@
     <img align="center" src="https://github.com/battery34760/battery34760/blob/main/assets/social/linkedin.svg" alt="Linked link of Karas" height="30" width="40" />
   </picture>
 </a>
-<!-- <a href="https://www.facebook.com/profile.php?id=100019553707449" target="_blank">
-  <picture>
-    <img align="center" src="https://github.com/battery34760/battery34760/blob/main/assets/social/facebook.svg" alt="Facebook link of Karas" height="30" width="40" />
-  </picture>
-</a> -->
 <a href="https://twitter.com/Karas34760"  target=”_blank” rel=”noreferrer”>
   <picture>
     <img align="center" src="https://github.com/battery34760/battery34760/blob/main/assets/social/twitter.svg" alt="Twitter link of Karas" height="30" width="40" />
