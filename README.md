@@ -10,7 +10,7 @@
 
 <p align='left'>
 
-- 🌱 I’m currently learning **Graphql**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 Read more information about me at [karasdev](https://karasdev.com/)
 - You can reach me at: vannam34760@gmail.com
