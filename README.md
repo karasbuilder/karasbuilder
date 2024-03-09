@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/v%C4%83n-nam-t%E1%BB%91ng-2464b0243/" >
+<a href="https://www.linkedin.com/in/karas34760/" >
   <picture>
     <img align="center" src="https://github.com/battery34760/battery34760/blob/main/assets/social/linkedin.svg" alt="Linked link of Karas" height="30" width="40" />
   </picture>
