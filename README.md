@@ -3,7 +3,7 @@
 <img align="center" src="https://github.com/battery34760/battery34760/blob/main/assets/banner.png" alt="Linked link of Karas" height="400px" width="100%" />
 </picture>
 
-<h2 align="center">Web Developer</h3>
+<h2 align="center">Fullstack Web Developer</h3>
 <picture>
     <img  align="right" width='400px' alt="Coding Karas" src="https://github.com/battery34760/battery34760/blob/main/assets/gif/giphy.gif" alt="Linked link of Karas"/>
 </picture>
