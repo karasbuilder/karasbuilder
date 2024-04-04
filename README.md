@@ -12,9 +12,8 @@
 
 - 🌱 I’m currently learning **Go**
 
-
-//- You can reach me at: vannam34760@gmail.com
-
+- Readmore about me at: 
+- You can reach me at: 
 - 💬 I know about _MERN,RUST_
 
 - ⚡ Fun fact **I Like Listen To Music , Drink coffe ...**
