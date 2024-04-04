@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Go**
 
 
-- You can reach me at: vannam34760@gmail.com
+//- You can reach me at: vannam34760@gmail.com
 
 - 💬 I know about _MERN,RUST_
 
