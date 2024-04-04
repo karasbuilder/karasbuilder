@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 Read more information about me at [karasdev](https://karasdev.com/)
+
 - You can reach me at: vannam34760@gmail.com
 
 - 💬 I know about _MERN,RUST_
