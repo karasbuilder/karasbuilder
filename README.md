@@ -21,12 +21,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/karas34760/" >
+<a href="https://www.linkedin.com/in/karasbuilder" >
   <picture>
     <img align="center" src="https://github.com/karasbuilder/karasbuilder/blob/main/assets/social/linkedin.svg" alt="Linked link of Karas" height="30" width="40" />
   </picture>
 </a>
-<a href="https://twitter.com/Karas34760"  target=”_blank” rel=”noreferrer”>
+<a href="https://twitter.com/karas_builder"  target=”_blank” rel=”noreferrer”>
   <picture>
     <img align="center" src="https://github.com/karasbuilder/karasbuilder/blob/main/assets/social/twitter.svg" alt="Twitter link of Karas" height="30" width="40" />
   </picture>
