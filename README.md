@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Go**
 
-- Readmore about me at: 
+- Readmore about me at: karasbuilder@gmail.com
 - You can reach me at: 
-- 💬 I know about _MERN,RUST_
+- 💬 I know about _MERN,RUST_ , Nest,Next
 
 - ⚡ Fun fact **I Like Listen To Music , Drink coffe ...**
 </p>
