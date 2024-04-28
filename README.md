@@ -21,11 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/karasbuilder" >
-  <picture>
-    <img align="center" src="assets/social/linkedin.svg" alt="Linked link of Karas" height="30" width="40" />
-  </picture>
-</a>
 <a href="https://twitter.com/karas_builder"  target=”_blank” rel=”noreferrer”>
   <picture>
     <img align="center" src="assets/social/twitter.svg" alt="Twitter link of Karas" height="30" width="40" />
