@@ -10,7 +10,7 @@
 
 <p align='left'>
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Solidity**
 
 - Readmore about me at: karasbuilder@gmail.com
 - You can reach me at: 
