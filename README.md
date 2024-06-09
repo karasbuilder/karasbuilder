@@ -1,9 +1,9 @@
 
 <picture>
-<img align="center" src="assets/banner.png" alt="Linked link of Karas" height="400px" width="100%" />
+<img align="center" src="assets/banner.png" alt="Banner Karas" height="400px" width="100%" />
 </picture>
 
-<h2 align="center">Fullstack Web Developer</h3>
+<h2 align="center">Fullstack Web3 Developer</h3>
 <picture>
     <img  align="right" width='400px' alt="Coding Karas" src="assets/gif/giphy.gif" alt="Linked link of Karas"/>
 </picture>
@@ -14,7 +14,7 @@
 
 - Readmore about me at: karasbuilder@gmail.com
 - You can reach me at: 
-- 💬 I know about _MERN,RUST_ , Nest,Next
+- 💬 I know about _MERN, RUST, Nest, Next_
 
 - ⚡ Fun fact **I Like Listen To Music , Drink coffe ...**
 </p>
