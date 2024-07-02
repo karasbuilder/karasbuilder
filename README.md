@@ -14,8 +14,7 @@
 
 - Readmore about me at: karasbuilder@gmail.com
 - You can reach me at: 
-- 💬 I know about _MERN, RUST, Nest, Next_
-
+- 💬 I know about _MERN, RUST, Nest.JS, Next.JS, React Native_
 - ⚡ Fun fact **I Like Listen To Music , Drink coffe ...**
 </p>
 
