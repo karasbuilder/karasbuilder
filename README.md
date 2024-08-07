@@ -12,8 +12,8 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- Readmore about me at: karasbuilder@gmail.com
-- You can reach me at: 
+- Readmore about me at: 
+- You can reach me at: karasbuilder@gmail.com
 - 💬 I know about _MERN, RUST, Nest.JS, Next.JS, React Native_
 - ⚡ Fun fact **I Like Listen To Music , Drink coffe ...**
 </p>
