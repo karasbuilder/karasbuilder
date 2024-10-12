@@ -10,7 +10,7 @@
 
 <p align='left'>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **ThreeJS**
 
 - ✧˖ Readmore about me at: ***Upcoming***
 - ✉ You can reach me at: karasbuilder@gmail.com
