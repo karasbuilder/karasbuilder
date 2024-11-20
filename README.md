@@ -10,7 +10,7 @@
 
 <p align='left'>
 
-- 🌱 I’m currently learning **....**
+- 🌱 I’m currently learning **Go**
 
 - ✧˖ Readmore about me at: ***Upcoming***
 - ✉ You can reach me at: karasbuilder@gmail.com
