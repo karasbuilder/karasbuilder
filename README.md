@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- ✧˖ Readmore about me at: ***Upcoming***
+- ✧˖ Readmore about me at: ***https://www.karasbuilder.com/***
 - ✉ You can reach me at: karasbuilder@gmail.com
 - 💬 I know about _MERN, RUST, Nest.JS, Next.JS, React Native_
 - ⚡ Fun fact **I Like Listen To Music , Drink coffe ...**
