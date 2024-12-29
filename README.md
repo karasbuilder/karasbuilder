@@ -14,7 +14,7 @@
 
 - ✧˖ Readmore about me at: ***https://www.karasbuilder.com/***
 - ✉ You can reach me at: karasbuilder@gmail.com
-- 💬 I know about _MERN, SOLIDITY, Nest.JS, Next.JS,..._
+- 💬 I know about _MERN, Solidity, Nest.JS, Next.JS,..._
 - ⚡ Fun fact **I Like Listen To Music , Drink coffe ...**
 </p>
 
