@@ -29,5 +29,5 @@
 <br />
 <br />
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=karasbuilder&show_icons=true&theme=transparent" />
-<img align="right" src="https://github-readme-stats-sigma-pink-77.vercel.app/api/top-langs/?username=karasbuilder" />
+<img align="left" src="https://github-readme-stats-sigma-pink-77.vercel.app/api?username=karasbuilder&show_icons=true&theme=transparent" />
+<img align="right" src="https://github-readme-stats-sigma-pink-77.vercel.app/api/top-langs/?username=karasbuilder&theme=transparent" />
