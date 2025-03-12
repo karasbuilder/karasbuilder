@@ -3,28 +3,37 @@
 <img align="center" src="assets/banner.png" alt="Banner Karas" height="400px" width="100%" />
 </picture>
 
-<h2 align="center">Fullstack Web3 Developer</h3>
+<p align="center">
+    <samp>
+        Fullstack Developer | Web3 Builder
+    </samp>
+</p>
+<p align="center">
+    <samp>
+        "It’s not a bug – it’s an undocumented feature." 👾️
+    </samp>
+</p>
 <picture>
     <img  align="right" width='400px' alt="Coding Karas" src="assets/gif/giphy.gif" alt="Linked link of Karas"/>
 </picture>
 
+
+
+<p align="left">
+   <img src="https://komarev.com/ghpvc/?username=karasbuilder&style=flat-square&color=f6b846">
+</p>
+
+
 <p align='left'>
 
-- 🌱 I’m currently learning **Solidity**
-
-- ✧˖ Readmore about me at: ***https://www.karasbuilder.com/***
+- 🌱 I’m currently working in **Starknet**
+- ✧˖ Read about me at: ***https://www.karasbuilder.com/***
 - ✉ You can reach me at: karasbuilder@gmail.com
 - 💬 I know about _MERN, Solidity, Nest.JS, Next.JS,..._
 - ⚡ Fun fact **I Like Listen To Music , Drink coffe ...**
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/karas_builder"  target=”_blank” rel=”noreferrer”>
-  <picture>
-    <img align="center" src="assets/social/twitter.svg" alt="Twitter link of Karas" height="30" width="40" />
-  </picture>
-</a>
+
 </p>
 <br />
 <br />
