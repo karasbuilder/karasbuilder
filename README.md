@@ -41,12 +41,11 @@
 <br />
 <br />
 <br />
-<div align="center">
-    <picture>
+<picture>
       <img align="left" width="47%%" src="https://github-readme-stats-sigma-pink-77.vercel.app/api?username=karasbuilder&show_icons=true&theme=transparent" />
-    </picture> 
-    <picture>
+</picture> 
+<picture>
       <img align="right" width="47%%" src="https://github-readme-stats-sigma-pink-77.vercel.app/api/top-langs/?username=karasbuilder&theme=transparent" />
-    </picture>
-</div>
+</picture>
+
 
