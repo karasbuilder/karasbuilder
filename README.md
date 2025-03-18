@@ -34,18 +34,15 @@
 </p>
 
 
-</p>
+
 <br />
 <br />
 <br />
 <br />
 <br />
 <br />
-<picture>
-      <img align="left" width="47%%" src="https://github-readme-stats-sigma-pink-77.vercel.app/api?username=karasbuilder&show_icons=true&theme=transparent" />
-</picture> 
-<picture>
-      <img align="right" width="47%%" src="https://github-readme-stats-sigma-pink-77.vercel.app/api/top-langs/?username=karasbuilder&theme=transparent" />
-</picture>
+<p align="left" >
+      <img  src="https://github-readme-stats-sigma-pink-77.vercel.app/api?username=karasbuilder&show_icons=true&theme=transparent" />
+</p> 
 
 
