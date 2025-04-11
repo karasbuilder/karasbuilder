@@ -1,48 +1,35 @@
-
-<picture>
-<img align="center" src="assets/banner.png" alt="Banner Karas" height="400px" width="100%" />
-</picture>
+<p align="center">
+  <img src="assets/banner.png" alt="Banner Karas" width="100%" height="400px" />
+</p>
 
 <p align="center">
-    <samp>
-        Fullstack Developer | Web3 Builder
-    </samp>
+  <samp><strong>Fullstack Developer | Web3 Builder</strong></samp>
 </p>
+
 <p align="center">
-    <samp>
-        "It’s not a bug – it’s an undocumented feature." 👾️
-    </samp>
+  <samp>"It’s not a bug – it’s an undocumented feature." 👾</samp>
 </p>
-<picture>
-    <img  align="right" width='400px' alt="Coding Karas" src="assets/gif/giphy.gif" alt="Linked link of Karas"/>
-</picture>
 
-
+<p align="center">
+  <img src="assets/gif/giphy.gif" alt="Coding Karas" width="400px" />
+</p>
 
 <p align="left">
-   <img src="https://komarev.com/ghpvc/?username=karasbuilder&style=flat-square&color=f6b846">
+  <img src="https://komarev.com/ghpvc/?username=karasbuilder&style=flat-square&color=f6b846" alt="GitHub Profile Views" />
 </p>
 
+---
 
-<p align='left'>
+### 👋 About Me
 
-- 🌱 I’m currently working in **Starknet**
-- ✧˖ Read about me at: ***https://www.karasbuilder.com/***
-- ✉ You can reach me at: karasbuilder@gmail.com
-- 💬 I know about _MERN, Solidity, Nest.JS, Next.JS,..._
-- ⚡ Fun fact **I Like Listen To Music , Drink coffe ...**
+- 🌱 Currently building on **Starknet**
+- 🔗 Learn more at: [**karasbuilder.com**](https://www.karasbuilder.com/)
+- 📫 Contact me at: **karasbuilder@gmail.com**
+- 💬 Tech stack: _MERN, Solidity, NestJS, NextJS, and more..._
+- ⚡ Fun fact: I love listening to music and drinking coffee!
+- ✍ Fullstack Developer with hands-on experience in Web3, UI/UX Design, Content Writing, and Visual Design.
+---
+
+<p align="left">
+  <img src="https://github-readme-stats-sigma-pink-77.vercel.app/api?username=karasbuilder&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
-
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<p align="left" >
-      <img  src="https://github-readme-stats-sigma-pink-77.vercel.app/api?username=karasbuilder&show_icons=true&theme=transparent" />
-</p> 
-
-
