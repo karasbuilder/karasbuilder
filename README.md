@@ -23,7 +23,6 @@
 ### 👋 About Me
 
 - 🌱 Currently building on **Starknet**
-- 🔗 Learn more at: [**karasbuilder.com**](https://www.karasbuilder.com/)
 - 📫 Contact me at: **karasbuilder@gmail.com**
 - 💬 Tech stack: _MERN, Solidity, NestJS, NextJS, and more..._
 - ⚡ Fun fact: I love listening to music and drinking coffee!
