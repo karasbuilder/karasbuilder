@@ -26,7 +26,7 @@
 - 📫 Contact me at: **karasbuilder@gmail.com**
 - 💬 Tech stack: _MERN, Solidity, NestJS, NextJS, and more..._
 - ⚡ Fun fact: I love listening to music and drinking coffee!
-- ✍ Fullstack Developer with hands-on experience in Web3, UI/UX Design, Content Writing, and Visual Design.
+- ✍ Fullstack Developer with hands-on experience in Web3, Content Writing, and AI Integration.
 ---
 
 <p align="left">
