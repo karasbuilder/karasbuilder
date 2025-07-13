@@ -29,6 +29,4 @@
 - ✍ Fullstack Developer with hands-on experience in Web3, Content Writing, and AI Integration.
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-pink-77.vercel.app/api?username=karasbuilder&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
+
